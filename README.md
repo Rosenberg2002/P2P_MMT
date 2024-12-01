@@ -6,9 +6,9 @@
 
 ### Tác giả
 
-**Trần Ngọc Khánh Huy**
-**Ngô Quang Anh**
-**Võ Duy Hiệu**
+**Trần Ngọc Khánh Huy**\\
+**Ngô Quang Anh**\\
+**Võ Duy Hiệu**\\
 ---
 
 ## Hướng dẫn sử dụng
