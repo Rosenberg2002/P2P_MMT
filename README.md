@@ -2,7 +2,7 @@
 ## Tổng quan
 Ứng dụng chia sẻ tệp P2P này sử dụng một server trung gian để điều phối, giao tiếp thông qua giao thức TCP.
 
-## Tác giả: Trần Ngọc Khánh Huy
+## Tác giả: Trần Ngọc Khánh Huy, Ngô Quang Anh, Võ Duy Hiệu
 
 ## Hướng dẫn sử dụng
 ### 1. Thiết lập chương trình
