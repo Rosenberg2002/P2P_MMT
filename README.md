@@ -1,4 +1,3 @@
-```markdown
 # Ứng dụng Chia sẻ Tệp Ngang hàng (P2P)
 
 ## Tổng quan
@@ -8,7 +7,8 @@
 ### Tác giả
 
 **Trần Ngọc Khánh Huy**
-
+**Ngô Quang Anh**
+**Võ Duy Hiệu**
 ---
 
 ## Hướng dẫn sử dụng
@@ -151,4 +151,3 @@ Server: AT <peer_IP_address> <peer_port>
 - `s`: Server
 - `p`: Peer
 - Mọi lệnh đều kết thúc bằng ký tự xuống dòng (`\n`) và ký tự null (`\0`).
-```
