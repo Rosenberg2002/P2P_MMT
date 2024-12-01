@@ -1,10 +1,10 @@
-#Hướng dẫn chi tiết: Ứng dụng chia sẻ tệp ngang hàng (P2P) với Python
-##Tổng quan
+# Hướng dẫn chi tiết: Ứng dụng chia sẻ tệp ngang hàng (P2P) với Python
+## Tổng quan
 Ứng dụng chia sẻ tệp P2P này sử dụng một server trung gian để điều phối, giao tiếp thông qua giao thức TCP.
 
-##Tác giả: Trần Ngọc Khánh Huy
+## Tác giả: Trần Ngọc Khánh Huy
 
-##Hướng dẫn sử dụng
+## Hướng dẫn sử dụng
 ###1. Thiết lập chương trình
 Chạy lệnh make để xóa cấu hình chương trình và cơ sở dữ liệu của các client.
 ###2. Khởi động server
